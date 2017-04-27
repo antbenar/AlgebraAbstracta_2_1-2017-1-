@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1491777564 source:c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\afin\main.cpp
+	<iostream>
+	<afin.h>
+	<string>
+
+1491449524 c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\afin\include\afin.h
+	<string>
+
+1491777551 source:c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\afin\src\afin.cpp
+	"afin.h"
+	<string>
+	"euclides.h"
+	<vector>
+	<stdlib.h>
+	<time.h>
+
+1491446694 c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\afin\include\euclides.h
+	<iostream>
+	<vector>
+

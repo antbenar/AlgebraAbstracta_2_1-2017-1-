@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1490292650 source:c:\users\alumno-a\desktop\cesar\main.cpp
+	<iostream>
+	<Cesar.h>
+	<string>
+
+1490292789 c:\users\alumno-a\desktop\cesar\include\cesar.h
+	<string>
+
+1490293049 source:c:\users\alumno-a\desktop\cesar\src\cesar.cpp
+	"Cesar.h"
+	<string>
+	"matematic.h"
+
+1490293341 c:\users\alumno-a\desktop\cesar\include\matematic.h
+
+1490411016 source:c:\users\owner\desktop\cesar\src\cesar.cpp
+	"Cesar.h"
+	<string>
+	"matematic.h"
+
+1490409011 c:\users\owner\desktop\cesar\include\cesar.h
+	<string>
+
+1490294756 c:\users\owner\desktop\cesar\include\matematic.h
+
+1490411222 source:c:\users\owner\desktop\cesar\main.cpp
+	<iostream>
+	<Cesar.h>
+	<string>
+
+1490492630 source:c:\users\anthony\desktop\cesar\main.cpp
+	<iostream>
+	<Cesar.h>
+	<string>
+
+1490492630 c:\users\anthony\desktop\cesar\include\cesar.h
+	<string>
+
+1490492631 source:c:\users\anthony\desktop\cesar\src\cesar.cpp
+	"Cesar.h"
+	<string>
+	"matematic.h"
+
+1490492630 c:\users\anthony\desktop\cesar\include\matematic.h
+
+1490492892 source:c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\cesar\main.cpp
+	<iostream>
+	<Cesar.h>
+	<string>
+
+1490492630 c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\cesar\include\cesar.h
+	<string>
+
+1490492631 source:c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\cesar\src\cesar.cpp
+	"Cesar.h"
+	<string>
+	"matematic.h"
+
+1490492630 c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\cesar\include\matematic.h
+

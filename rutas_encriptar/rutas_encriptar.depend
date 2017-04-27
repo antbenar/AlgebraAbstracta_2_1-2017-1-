@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1490294811 source:c:\users\alumno-a\desktop\rutas_encriptar\main.cpp
+	<iostream>
+	"rutas.h"
+
+1490294661 c:\users\alumno-a\desktop\rutas_encriptar\include\rutas.h
+	<string>
+
+1490294741 source:c:\users\alumno-a\desktop\rutas_encriptar\src\rutas.cpp
+	"Rutas.h"
+	<string>
+
+1490566140 source:c:\users\anthony\desktop\rutas_encriptar\main.cpp
+	<iostream>
+	"rutas.h"
+	<string>
+
+1490492627 c:\users\anthony\desktop\rutas_encriptar\include\rutas.h
+	<string>
+
+1490566459 source:c:\users\anthony\desktop\rutas_encriptar\src\rutas.cpp
+	"Rutas.h"
+	<string>
+	<iostream>
+
+1490891106 source:c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\rutas_encriptar\src\rutas.cpp
+	"Rutas.h"
+	<string>
+	<iostream>
+
+1490492627 c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\rutas_encriptar\include\rutas.h
+	<string>
+
+1490890987 source:c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\rutas_encriptar\main.cpp
+	<iostream>
+	"rutas.h"
+	<string>
+
+1490899071 source:c:\users\alumno-a\desktop\algebra abstracta\rutas_encriptar\src\rutas.cpp
+	"Rutas.h"
+	<string>
+	<iostream>
+
+1490492628 c:\users\alumno-a\desktop\algebra abstracta\rutas_encriptar\include\rutas.h
+	<string>
+
+1490899110 source:c:\users\alumno-a\desktop\algebra abstracta\rutas_encriptar\main.cpp
+	<iostream>
+	"rutas.h"
+	<string>
+
+1490923599 source:c:\users\anthony\desktop\algebra abstracta\rutas_encriptar\main.cpp
+	<iostream>
+	"rutas.h"
+	<string>
+
+1490492628 c:\users\anthony\desktop\algebra abstracta\rutas_encriptar\include\rutas.h
+	<string>
+
+1490923534 source:c:\users\anthony\desktop\algebra abstracta\rutas_encriptar\src\rutas.cpp
+	"Rutas.h"
+	<string>
+	<iostream>
+
