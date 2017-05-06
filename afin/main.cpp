@@ -1,7 +1,6 @@
 #include <iostream>
 #include<afin.h>
 #include<string>
-
 using namespace std;
 
 int main()
@@ -14,8 +13,9 @@ int main()
     cout<< "su clave cifrada es: "<<a<<endl;
     //cout<< "su clave descifrada es: "<<afin_.descifrar(b)<<endl;//MIO
 
-//    b="wXpBIX yhqXuPmFqEJycWGvyJjJ";
-//    cout<< "su clave descifrada es: "<<afin_.descifrar(b,97,76)<<endl;//MIO
+    afin afin_descifrar((ZZ)97,(ZZ)76);
+    b="wXpBIX yhqXuPmFqEJycWGvyJjJ";
+    cout<< "su clave descifrada es: "<<afin_descifrar.descifrar(b)<<endl;//MIO
 
 //    b="fAjOKaeSKrOjKoA AKSErONKrAbAEKeErSbSEKSNKSErOKAnRreNWbObKjSEKVAiKOKoA SNrORKoA AKESKjjO OKiAK SKjjO AKONsSjKiKSNKSErOKAnARreNWbObKNAESKaeSKEWVSKSEKnOROKSEArAKiKSEAKNObOK OE";
 //    cout<< "su clave descifrada es: "<<afin_.descifrar(b,15387,8832)<<endl;//Angel
