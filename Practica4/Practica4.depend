@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1495129864 source:c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\algebraabstracta_2_1-2017-1-\practica4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<NTL/ZZ.h>
+	<math.h>
+	<vector>
+	"mat.h"
+
+1495130016 c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\algebraabstracta_2_1-2017-1-\practica4\mat.h
+	<iostream>
+	<vector>
+	<NTL/ZZ.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+

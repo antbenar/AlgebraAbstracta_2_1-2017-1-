@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1494525484 source:c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\algebraabstracta_2_1-2017-1-\resto_chino\main.cpp
+	<iostream>
+	"mat.h"
+	"RestoChino.h"
+	<vector>
+
+1494526320 c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta\algebraabstracta_2_1-2017-1-\resto_chino\mat.h
+	<iostream>
+	<vector>
+	<NTL/ZZ.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+
