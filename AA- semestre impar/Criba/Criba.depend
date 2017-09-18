@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505767442 source:c:\users\anthony\desktop\programacion\3tercer semestre (c++)\algebraabstracta(segunda vez)\criba\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+
